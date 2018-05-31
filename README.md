@@ -23,7 +23,7 @@ Matplotlib https://matplotlib.org/
 
 **Credit**
 
-Mikolaj Kegler, Octave Etard, Antonion Elia Forte, Tobias Reichenbach (Imperial College London)
+Mikolaj Kegler, Octave Etard, Antonio Elia Forte, Tobias Reichenbach (Imperial College London)
 
 
 **References**
