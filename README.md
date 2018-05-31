@@ -1,5 +1,4 @@
 # cTRF
-Complex Temporal Response Functions for relating a feature of a natural stimulus to the neural response
 
 The cTRF toolbox relates a feature of a natural stimulus, such as speech, to the neural response through computing *complex temporal response functions (cTRFs)*. This complex modeling can identify both the temporal lag as well as phase of the neural response. It has been employed successfully to relate the pitch waveform of speech to the human brainstem response as measured from scalp electrodes, and to thereform  decode selective attention to one of two speakers [1,2].
 
